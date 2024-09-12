@@ -12,6 +12,10 @@ Cfg = {
             'https://cdn-icons-png.flaticon.com/512/4160/4160766.png',
             'https://cdn-icons-png.flaticon.com/512/4160/4160718.png',
             'https://cdn-icons-png.flaticon.com/512/743/743255.png',
+            'https://cdn-icons-png.flaticon.com/512/4951/4951942.png',
+            'https://cdn-icons-png.flaticon.com/512/4160/4160749.png',
+            'https://cdn-icons-png.flaticon.com/512/14272/14272290.png',
+            'https://cdn-icons-png.flaticon.com/512/2018/2018464.png',
         },
     },
 }

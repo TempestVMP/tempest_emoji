@@ -1,5 +1,7 @@
 Discord: [Link](https://discord.gg/VJMtfknBx2)
+
 Raw URL: https://discord.gg/VJMtfknBx2
+
 
 ADDITIONAL RESTRICTIONS:
 1. The Software may not be used for commercial purposes. (NonCommercial)

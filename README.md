@@ -1,4 +1,5 @@
-Discord: [Link](https://discord.gg/VJMtfknBx2) https://discord.gg/VJMtfknBx2
+Discord: [Link](https://discord.gg/VJMtfknBx2)
+Raw URL: https://discord.gg/VJMtfknBx2
 ADDITIONAL RESTRICTIONS:
 1. The Software may not be used for commercial purposes. (NonCommercial)
 2. Any derivative works must give appropriate credit to the original author. (Attribution)
